@@ -1,0 +1,9 @@
+create database cl1_almonacid;
+
+use cl1_almonacid;
+
+CREATE TABLE Subject (
+idSubject int auto_increment primary key,
+subject varchar(45) not null,
+credits varchar(45) not null
+);
