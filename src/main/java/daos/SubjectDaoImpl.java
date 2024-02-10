@@ -14,7 +14,7 @@ public class SubjectDaoImpl implements SubjectDao {
 	EntityManager em;
 	
 	public SubjectDaoImpl() {
-		factory = Persistence.createEntityManagerFactory("Almonacid_CL1");
+		factory = Persistence.createEntityManagerFactory("Jeremias_CL1");
 		em = factory.createEntityManager();
 	}
 	
