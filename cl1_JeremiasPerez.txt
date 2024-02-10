@@ -1,6 +1,6 @@
-create database cl1_almonacid;
+create database cl1_jeremias;
 
-use cl1_almonacid;
+use cl1_jeremias;
 
 CREATE TABLE Subject (
 idSubject int auto_increment primary key,
